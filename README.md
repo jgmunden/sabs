@@ -1,2 +1,2 @@
 # sabs
-R group for SABS employees, repository for sharing and editing code to improve R efficiency
+This repository, when functional, will allow sharing and editing of R code to improve the efficiency and capacity of individuals working in the biological sciences.
